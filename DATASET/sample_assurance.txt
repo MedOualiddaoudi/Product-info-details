@@ -1,0 +1,302 @@
+[
+    {
+        "productId": "A001",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Auto",
+        "productTarget": [
+            "Seniors"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                },
+                {
+                    "name": "Formule Premium",
+                    "price": "1500 DH TTC/AN",
+                    "features": [
+                        "Couverture complète",
+                        "Accès à des services exclusifs",
+                        "Indemnisation rapide"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A002",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Vie",
+        "productTarget": [
+            "Professionnels"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                },
+                {
+                    "name": "Formule Premium",
+                    "price": "1500 DH TTC/AN",
+                    "features": [
+                        "Couverture complète",
+                        "Accès à des services exclusifs",
+                        "Indemnisation rapide"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A003",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Vie",
+        "productTarget": [
+            "Particuliers"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Basic",
+                    "price": "500 DH TTC/AN",
+                    "features": [
+                        "Couverture de base",
+                        "Assistance 24/7",
+                        "Gestion en ligne"
+                    ]
+                },
+                {
+                    "name": "Formule Plus",
+                    "price": "1250 DH TTC/AN",
+                    "features": [
+                        "Couverture étendue",
+                        "Service client prioritaire",
+                        "Options de personnalisation"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A004",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Scolaire",
+        "productTarget": [
+            "Professionnels"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Basic",
+                    "price": "500 DH TTC/AN",
+                    "features": [
+                        "Couverture de base",
+                        "Assistance 24/7",
+                        "Gestion en ligne"
+                    ]
+                },
+                {
+                    "name": "Formule Plus",
+                    "price": "1250 DH TTC/AN",
+                    "features": [
+                        "Couverture étendue",
+                        "Service client prioritaire",
+                        "Options de personnalisation"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A005",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Voyage",
+        "productTarget": [
+            "Familles"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                },
+                {
+                    "name": "Formule Confort",
+                    "price": "1000 DH TTC/AN",
+                    "features": [
+                        "Couverture étendue",
+                        "Assistance VIP",
+                        "Service client dédié"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A006",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Voyage",
+        "productTarget": [
+            "Familles"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Confort",
+                    "price": "1000 DH TTC/AN",
+                    "features": [
+                        "Couverture étendue",
+                        "Assistance VIP",
+                        "Service client dédié"
+                    ]
+                },
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A007",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Santé",
+        "productTarget": [
+            "Jeunes"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Confort",
+                    "price": "1000 DH TTC/AN",
+                    "features": [
+                        "Couverture étendue",
+                        "Assistance VIP",
+                        "Service client dédié"
+                    ]
+                },
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A008",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Scolaire",
+        "productTarget": [
+            "Seniors"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                },
+                {
+                    "name": "Formule Basic",
+                    "price": "500 DH TTC/AN",
+                    "features": [
+                        "Couverture de base",
+                        "Assistance 24/7",
+                        "Gestion en ligne"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A009",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Emprunteur",
+        "productTarget": [
+            "Particuliers"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                },
+                {
+                    "name": "Formule Plus",
+                    "price": "1250 DH TTC/AN",
+                    "features": [
+                        "Couverture étendue",
+                        "Service client prioritaire",
+                        "Options de personnalisation"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "A010",
+        "productType": "ASSURANCE",
+        "productName": "Assurance Auto",
+        "productTarget": [
+            "Familles"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule Confort",
+                    "price": "1000 DH TTC/AN",
+                    "features": [
+                        "Couverture étendue",
+                        "Assistance VIP",
+                        "Service client dédié"
+                    ]
+                },
+                {
+                    "name": "Formule Eco",
+                    "price": "750 DH TTC/AN",
+                    "features": [
+                        "Couverture économique",
+                        "Gestion en ligne",
+                        "Assistance téléphonique"
+                    ]
+                }
+            ]
+        }
+    }
+]

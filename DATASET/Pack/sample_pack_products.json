@@ -1,0 +1,482 @@
+[
+    {
+        "productId": "002",
+        "productType": "PACK",
+        "productName": "Pack Diamond",
+        "productTarget": [
+            "Voyageurs fréquents, détenteurs d’un compte international."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 6",
+                    "price": "300 DH TTC/AN",
+                    "features": [
+                        "Compte investissement avec conseils personnalisés",
+                        "Carte Bancaire Diamond avec assurances incluses",
+                        "Accès privilégié aux événements exclusifs"
+                    ]
+                },
+                {
+                    "name": "Formule 7",
+                    "price": "120 DH TTC/AN",
+                    "features": [
+                        "Compte jeune avec offres spéciales pour étudiants",
+                        "Carte Bancaire sans frais de retrait",
+                        "Programme de fidélité avec récompenses"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "003",
+        "productType": "PACK",
+        "productName": "Pack Rewards",
+        "productTarget": [
+            "Entreprises et Professionnels, détenteurs d’un compte commercial."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 2",
+                    "price": "50 DH TTC/AN",
+                    "features": [
+                        "Services GAB inclus",
+                        "Services LSB",
+                        {
+                            "Conditions préférentielles": [
+                                "gratuité des frais de tenue de compte",
+                                "gratuité des frais de virements et des frais des retraits déplacés",
+                                "50% de réduction sur les frais des mises à disposition"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Formule 1",
+                    "price": "100 DH TTC/AN",
+                    "features": [
+                        "Un compte chèque MRE avec frais de tenue de compte gratuits",
+                        "Une Carte Bancaire locale Premium contactless vous permettant d’accéder à un large réseau de guichets automatiques et commerçant",
+                        "Le Service Attijarinet Attijari mobile"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "004",
+        "productType": "PACK",
+        "productName": "Pack Privilége MRE",
+        "productTarget": [
+            "Entreprises et Professionnels, détenteurs d’un compte commercial."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 8",
+                    "price": "90 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec gestion en ligne",
+                        "Carte Bancaire avec limite de retrait ajustable",
+                        "Service de notifications push"
+                    ]
+                },
+                {
+                    "name": "Formule 4",
+                    "price": "75 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec découvert autorisé",
+                        "Carte Bancaire contactless",
+                        "Notifications SMS pour chaque transaction"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "005",
+        "productType": "PACK",
+        "productName": "Pack Gold",
+        "productTarget": [
+            "Jeunes et étudiants, détenteurs d’un compte jeunesse."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 4",
+                    "price": "75 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec découvert autorisé",
+                        "Carte Bancaire contactless",
+                        "Notifications SMS pour chaque transaction"
+                    ]
+                },
+                {
+                    "name": "Formule 7",
+                    "price": "120 DH TTC/AN",
+                    "features": [
+                        "Compte jeune avec offres spéciales pour étudiants",
+                        "Carte Bancaire sans frais de retrait",
+                        "Programme de fidélité avec récompenses"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "006",
+        "productType": "PACK",
+        "productName": "Pack Family",
+        "productTarget": [
+            "Familles et individus, détenteurs d’un compte commun."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 7",
+                    "price": "120 DH TTC/AN",
+                    "features": [
+                        "Compte jeune avec offres spéciales pour étudiants",
+                        "Carte Bancaire sans frais de retrait",
+                        "Programme de fidélité avec récompenses"
+                    ]
+                },
+                {
+                    "name": "Formule 2",
+                    "price": "50 DH TTC/AN",
+                    "features": [
+                        "Services GAB inclus",
+                        "Services LSB",
+                        {
+                            "Conditions préférentielles": [
+                                "gratuité des frais de tenue de compte",
+                                "gratuité des frais de virements et des frais des retraits déplacés",
+                                "50% de réduction sur les frais des mises à disposition"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "007",
+        "productType": "PACK",
+        "productName": "Pack Silver",
+        "productTarget": [
+            "Clients Marocains résidants à l'étranger"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 4",
+                    "price": "75 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec découvert autorisé",
+                        "Carte Bancaire contactless",
+                        "Notifications SMS pour chaque transaction"
+                    ]
+                },
+                {
+                    "name": "Formule 7",
+                    "price": "120 DH TTC/AN",
+                    "features": [
+                        "Compte jeune avec offres spéciales pour étudiants",
+                        "Carte Bancaire sans frais de retrait",
+                        "Programme de fidélité avec récompenses"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "008",
+        "productType": "PACK",
+        "productName": "Pack Business",
+        "productTarget": [
+            "Clients Marocains résidants à l'étranger"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 2",
+                    "price": "50 DH TTC/AN",
+                    "features": [
+                        "Services GAB inclus",
+                        "Services LSB",
+                        {
+                            "Conditions préférentielles": [
+                                "gratuité des frais de tenue de compte",
+                                "gratuité des frais de virements et des frais des retraits déplacés",
+                                "50% de réduction sur les frais des mises à disposition"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Formule 6",
+                    "price": "300 DH TTC/AN",
+                    "features": [
+                        "Compte investissement avec conseils personnalisés",
+                        "Carte Bancaire Diamond avec assurances incluses",
+                        "Accès privilégié aux événements exclusifs"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "009",
+        "productType": "PACK",
+        "productName": "Pack Platinum",
+        "productTarget": [
+            "Jeunes et étudiants, détenteurs d’un compte jeunesse."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 5",
+                    "price": "150 DH TTC/AN",
+                    "features": [
+                        "Compte joint avec frais de tenue de compte gratuits",
+                        "Carte Bancaire Platinum avec cashback sur les achats",
+                        "Service client dédié 24/7"
+                    ]
+                },
+                {
+                    "name": "Formule 7",
+                    "price": "120 DH TTC/AN",
+                    "features": [
+                        "Compte jeune avec offres spéciales pour étudiants",
+                        "Carte Bancaire sans frais de retrait",
+                        "Programme de fidélité avec récompenses"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "010",
+        "productType": "PACK",
+        "productName": "Pack Business",
+        "productTarget": [
+            "Jeunes et étudiants, détenteurs d’un compte jeunesse."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 5",
+                    "price": "150 DH TTC/AN",
+                    "features": [
+                        "Compte joint avec frais de tenue de compte gratuits",
+                        "Carte Bancaire Platinum avec cashback sur les achats",
+                        "Service client dédié 24/7"
+                    ]
+                },
+                {
+                    "name": "Formule 7",
+                    "price": "120 DH TTC/AN",
+                    "features": [
+                        "Compte jeune avec offres spéciales pour étudiants",
+                        "Carte Bancaire sans frais de retrait",
+                        "Programme de fidélité avec récompenses"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "011",
+        "productType": "PACK",
+        "productName": "Pack Student",
+        "productTarget": [
+            "Clients Marocains résidants à l'étranger"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 8",
+                    "price": "90 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec gestion en ligne",
+                        "Carte Bancaire avec limite de retrait ajustable",
+                        "Service de notifications push"
+                    ]
+                },
+                {
+                    "name": "Formule 6",
+                    "price": "300 DH TTC/AN",
+                    "features": [
+                        "Compte investissement avec conseils personnalisés",
+                        "Carte Bancaire Diamond avec assurances incluses",
+                        "Accès privilégié aux événements exclusifs"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "012",
+        "productType": "PACK",
+        "productName": "Pack Basic",
+        "productTarget": [
+            "Familles et individus, détenteurs d’un compte commun."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 2",
+                    "price": "50 DH TTC/AN",
+                    "features": [
+                        "Services GAB inclus",
+                        "Services LSB",
+                        {
+                            "Conditions préférentielles": [
+                                "gratuité des frais de tenue de compte",
+                                "gratuité des frais de virements et des frais des retraits déplacés",
+                                "50% de réduction sur les frais des mises à disposition"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Formule 4",
+                    "price": "75 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec découvert autorisé",
+                        "Carte Bancaire contactless",
+                        "Notifications SMS pour chaque transaction"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "013",
+        "productType": "PACK",
+        "productName": "Pack Business",
+        "productTarget": [
+            "Voyageurs fréquents, détenteurs d’un compte international."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 2",
+                    "price": "50 DH TTC/AN",
+                    "features": [
+                        "Services GAB inclus",
+                        "Services LSB",
+                        {
+                            "Conditions préférentielles": [
+                                "gratuité des frais de tenue de compte",
+                                "gratuité des frais de virements et des frais des retraits déplacés",
+                                "50% de réduction sur les frais des mises à disposition"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Formule 8",
+                    "price": "90 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec gestion en ligne",
+                        "Carte Bancaire avec limite de retrait ajustable",
+                        "Service de notifications push"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "014",
+        "productType": "PACK",
+        "productName": "Pack Silver",
+        "productTarget": [
+            "Clients Marocains résidants à l'étranger"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 4",
+                    "price": "75 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec découvert autorisé",
+                        "Carte Bancaire contactless",
+                        "Notifications SMS pour chaque transaction"
+                    ]
+                },
+                {
+                    "name": "Formule 6",
+                    "price": "300 DH TTC/AN",
+                    "features": [
+                        "Compte investissement avec conseils personnalisés",
+                        "Carte Bancaire Diamond avec assurances incluses",
+                        "Accès privilégié aux événements exclusifs"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "015",
+        "productType": "PACK",
+        "productName": "Pack Cashback",
+        "productTarget": [
+            "Familles et individus, détenteurs d’un compte commun."
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 7",
+                    "price": "120 DH TTC/AN",
+                    "features": [
+                        "Compte jeune avec offres spéciales pour étudiants",
+                        "Carte Bancaire sans frais de retrait",
+                        "Programme de fidélité avec récompenses"
+                    ]
+                },
+                {
+                    "name": "Formule 6",
+                    "price": "300 DH TTC/AN",
+                    "features": [
+                        "Compte investissement avec conseils personnalisés",
+                        "Carte Bancaire Diamond avec assurances incluses",
+                        "Accès privilégié aux événements exclusifs"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "productId": "016",
+        "productType": "PACK",
+        "productName": "Pack Silver",
+        "productTarget": [
+            "Clients Marocains résidants à l'étranger"
+        ],
+        "productDetails": {
+            "formulas": [
+                {
+                    "name": "Formule 6",
+                    "price": "300 DH TTC/AN",
+                    "features": [
+                        "Compte investissement avec conseils personnalisés",
+                        "Carte Bancaire Diamond avec assurances incluses",
+                        "Accès privilégié aux événements exclusifs"
+                    ]
+                },
+                {
+                    "name": "Formule 4",
+                    "price": "75 DH TTC/AN",
+                    "features": [
+                        "Compte courant avec découvert autorisé",
+                        "Carte Bancaire contactless",
+                        "Notifications SMS pour chaque transaction"
+                    ]
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1187 @@
+[
+    {
+        "productId": "001",
+        "productType": "CARTE",
+        "productName": "Carte Basic",
+        "productTarget": [
+            "Clients Privilège Particuliers et Professionnels, détenteurs d’un compte chéques."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 250 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2.5% du montant de la transaction* + équivalent de 1.5$",
+                    "Frais de retrait GAB confrère au Maroc: 5 DH TTC*",
+                    "Commission sur paiement international: 0.5% du montant * + 15 DH HT*",
+                    "Frais de remplacement : 45 DH HT*",
+                    "Recalcul de code : 10 DH"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "002",
+        "productType": "CARTE",
+        "productName": "Carte Elite",
+        "productTarget": [
+            "Familles et individus, détenteurs d’un compte commun."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 450 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "003",
+        "productType": "CARTE",
+        "productName": "Carte Platinum",
+        "productTarget": [
+            "Jeunes et étudiants, détenteurs d’un compte jeunesse."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 800 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "004",
+        "productType": "CARTE",
+        "productName": "Carte Student",
+        "productTarget": [
+            "Familles et individus, détenteurs d’un compte commun."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 300 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2.5% du montant de la transaction* + équivalent de 1.5$",
+                    "Frais de retrait GAB confrère au Maroc: 5 DH TTC*",
+                    "Commission sur paiement international: 0.5% du montant * + 15 DH HT*",
+                    "Frais de remplacement : 45 DH HT*",
+                    "Recalcul de code : 10 DH"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "005",
+        "productType": "CARTE",
+        "productName": "Carte Cashback",
+        "productTarget": [
+            "Entreprises et Professionnels, détenteurs d’un compte commercial."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 250 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "006",
+        "productType": "CARTE",
+        "productName": "Carte Corporate",
+        "productTarget": [
+            "Voyageurs fréquents, détenteurs d’un compte international."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 250 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "007",
+        "productType": "CARTE",
+        "productName": "Carte Student",
+        "productTarget": [
+            "Entreprises et Professionnels, détenteurs d’un compte commercial."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 500 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "008",
+        "productType": "CARTE",
+        "productName": "Carte Premium",
+        "productTarget": [
+            "Voyageurs fréquents, détenteurs d’un compte international."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 900 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "009",
+        "productType": "CARTE",
+        "productName": "Carte Cashback",
+        "productTarget": [
+            "Clients Privilège Particuliers et Professionnels, détenteurs d’un compte chéques."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "2 200 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "010",
+        "productType": "CARTE",
+        "productName": "Carte Travel",
+        "productTarget": [
+            "Entreprises et Professionnels, détenteurs d’un compte commercial."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "2 100 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "011",
+        "productType": "CARTE",
+        "productName": "Carte Elite",
+        "productTarget": [
+            "Jeunes et étudiants, détenteurs d’un compte jeunesse."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 000 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "012",
+        "productType": "CARTE",
+        "productName": "Carte Corporate",
+        "productTarget": [
+            "Voyageurs fréquents, détenteurs d’un compte international."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "2 000 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "013",
+        "productType": "CARTE",
+        "productName": "Carte Premium",
+        "productTarget": [
+            "Entreprises et Professionnels, détenteurs d’un compte commercial."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "2 200 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2.5% du montant de la transaction* + équivalent de 1.5$",
+                    "Frais de retrait GAB confrère au Maroc: 5 DH TTC*",
+                    "Commission sur paiement international: 0.5% du montant * + 15 DH HT*",
+                    "Frais de remplacement : 45 DH HT*",
+                    "Recalcul de code : 10 DH"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "014",
+        "productType": "CARTE",
+        "productName": "Carte Classic",
+        "productTarget": [
+            "Entreprises et Professionnels, détenteurs d’un compte commercial."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "1 500 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2.5% du montant de la transaction* + équivalent de 1.5$",
+                    "Frais de retrait GAB confrère au Maroc: 5 DH TTC*",
+                    "Commission sur paiement international: 0.5% du montant * + 15 DH HT*",
+                    "Frais de remplacement : 45 DH HT*",
+                    "Recalcul de code : 10 DH"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "productId": "015",
+        "productType": "CARTE",
+        "productName": "Carte Student",
+        "productTarget": [
+            "Jeunes et étudiants, détenteurs d’un compte jeunesse."
+        ],
+        "productDetails": {
+            "pricing": {
+                "contribution": "2 100 DH TTC/an",
+                "extraCosts": [
+                    "Frais de retrait GAB à l’étranger : 2% du montant de la transaction* + équivalent de 1$",
+                    "Frais de retrait GAB confrère au Maroc: 6 DH TTC*",
+                    "Commission sur paiement international: 1% du montant * + 10 DH HT*",
+                    "Frais de remplacement : 50 DH HT*",
+                    "Recalcul de code : Gratuit"
+                ]
+            },
+            "characteristics": [
+                {
+                    "title": "Plafonds de retraits et de paiement Carte Visa",
+                    "detail": {
+                        "head": [
+                            "Retrait Quotidien",
+                            "Paiement Mensuel"
+                        ],
+                        "content": [
+                            "30.000 DH/jour à hauteur du solde du compte",
+                            "Jusqu'à 200 000 DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Facilité de caisse",
+                    "detail": {
+                        "head": [
+                            "Plafonds"
+                        ],
+                        "content": [
+                            "0 – 10 000 – 20 000 – 30 000 – 40 000 – 50 000 - 60 000 - 70 000 - 80 000 DH Sur le compte en DH"
+                        ]
+                    }
+                },
+                {
+                    "title": "Personnalisation des services monétiques",
+                    "detail": {
+                        "head": [
+                            "Services monétiques"
+                        ],
+                        "content": [
+                            "Suspendre l'utilisation de sa carte",
+                            "Suspendre l'utilisation de sa carte pour le paiement et/ou le retrait, au Maroc et/ou à l’étranger",
+                            "Suspendre l'utilisation de sa carte pour le dépôt d’espèces sur guichet et le cash express automatique au Maroc",
+                            "Modifier les plafonds de retrait et de paiement au Maroc et à l’étranger à hauteur du plafond spécifique de la carte"
+                        ]
+                    }
+                },
+                {
+                    "title": "SERVICES GAB / E-BANKING",
+                    "detail": {
+                        "head": [
+                            "Liste des services"
+                        ],
+                        "content": [
+                            "Consultation du solde (local & international)",
+                            "Edition du relevé des 10 dernières opérations (local)",
+                            "Changement du code PIN",
+                            "Paiement de factures IAM, Orange",
+                            "Recharge téléphonique IAM, Orange, Inwi",
+                            "Édition RIB",
+                            "Changement de code PIN",
+                            "Dépôt espèces (sur certains GAB)",
+                            "Remise chèques (sur certains GAB)"
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+]
